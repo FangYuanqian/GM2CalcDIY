@@ -1,10 +1,12 @@
-#include "gm2calc/gm2_1loop.hpp"
-#include "gm2calc/gm2_2loop.hpp"
-#include "gm2calc/gm2_uncertainty.hpp"
-#include "gm2calc/gm2_error.hpp"
-#include "gm2calc/THDM.hpp"
+#include "/home/fyq/DIYbyfyq/GM2CalcDIY/include/gm2calc/gm2_1loop.h"
+#include "/home/fyq/DIYbyfyq/GM2CalcDIY/include/gm2calc/gm2_2loop.h"
+#include "/home/fyq/DIYbyfyq/GM2CalcDIY/include/gm2calc/gm2_uncertainty.hpp"
+#include "/home/fyq/DIYbyfyq/GM2CalcDIY/include/gm2calc/gm2_error.hpp"
+#include "/home/fyq/DIYbyfyq/GM2CalcDIY/include/gm2calc/THDM.hpp"
 
 #include <cstdio>
+#include <gm2_2loop.hpp>
+#include <gm2_1loop.hpp>
 
 int main()
 {
